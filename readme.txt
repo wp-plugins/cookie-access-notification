@@ -25,6 +25,8 @@ That's where you put what to check for. If you want to check for a commentor's u
 
 You may also find this plugin helpful: [IP Access Notification](http://wordpress.org/extend/plugins/ip-access-notification/)
 
+**Want update feeds, code documentation and more? Visit [extend.schloebe.de](http://extend.schloebe.de)**
+
 == Installation ==
 
 1. Download the plugin and unzip it.
