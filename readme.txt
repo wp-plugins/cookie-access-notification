@@ -3,7 +3,7 @@ Contributors: Alphawolf
 Donate link: http://www.schloebe.de/donate/
 Tags: cookie, notification, admin, email, comment, commentator, commentor
 Requires at least: 1.5
-Tested up to: 2.5+
+Tested up to: 2.6
 Stable tag: trunk
 
 Sends out an email to the blog admin when a commenter accesses the blog with a certain username/ email address/ website url.
