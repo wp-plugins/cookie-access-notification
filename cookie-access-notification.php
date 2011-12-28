@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Cookie Access Notification
-Version: 1.0
+Version: 1.0.1
 Plugin URI: http://www.schloebe.de/
 Description: Sends out an email to the blog admin when a commenter accesses the blog with a certain username/ email address/ website url.
 Author: Oliver Schl&ouml;be
